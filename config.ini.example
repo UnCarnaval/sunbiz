@@ -1,0 +1,6 @@
+[telegram]
+token = YOUR_BOT_TOKEN
+max_addresses = 100
+
+[bot]
+data_dir = data/bot
